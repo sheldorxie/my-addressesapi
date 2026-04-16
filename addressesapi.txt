@@ -1,0 +1,10 @@
+gamer.com.tw:2053#TW-gamer台湾
+skk.moe:8443#TW-skk台湾
+japan.com:2053#JP-japan日本
+singapore.com:8443#SG-singapore新加坡
+shopify.com:2053#US-shopify美国
+www.gov.uk:2053#GB-gov英国
+www.visa.co.in:8443#IN-Visa印度
+ip.sb:2053#通用-ip.sb
+www.digitalocean.com:8443#US-digitalocean美国
+cdn.anycast.eu.org:8443#通用-anycast
