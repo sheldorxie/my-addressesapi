@@ -1,3 +1,7 @@
+proxyip.tw.fxxk.dedyn.io:443#🇹🇼 TW-ProxyIP
+tw.cloudflare.com:443#🇹🇼 TW-CF官方
+icook.hk:443#🇹🇼 TW-ICook
+shopline.tw:443#🇹🇼 TW-Shopline
 proxyip.jp.fxxk.dedyn.io#🇯🇵 JP-VISA
 www.visa.co.jp:443#🇯🇵 JP-VISA
 japan.com:443#🇯🇵 JP-Japan
