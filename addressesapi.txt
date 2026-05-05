@@ -4,7 +4,6 @@ japan.com:443#🇯🇵 JP-Japan
 proxyip.jp.fxxk.dedyn.io:443#🇯🇵 JP-ProxyIP
 proxyip.sg.fxxk.dedyn.io:443#🇸🇬 SG-VISA
 singapore.com:443#🇸🇬 SG-Singapore
-proxyip.sg.fxxk.dedyn.io:443#🇸🇬 SG-ProxyIP
 104.17.155.88#🇺🇸 US-VISA
 104.17.159.100#🇺🇸 US-TIME
 www.visa.fr:443#🇫🇷 FR-VISA
