@@ -1,7 +1,7 @@
-ProxyIP.JP.CMLiussss.net:443#🇯🇵 JP-ProxyIP
 www.visa.co.jp:443#🇯🇵 JP-VISA
 japan.com:443#🇯🇵 JP-Japan
 shopify.com:443#🇯🇵 JP-Shopify
+ProxyIP.JP.CMLiussss.net:443#🇯🇵 JP-ProxyIP
 www.visa.com.sg:443#🇸🇬 SG-VISA
 singapore.com:443#🇸🇬 SG-Singapore
 104.17.155.88#🇺🇸 US-VISA
