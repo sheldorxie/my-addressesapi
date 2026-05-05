@@ -1,8 +1,8 @@
 proxyip.jp.fxxk.dedyn.io#🇯🇵 JP-VISA
-108.162.226.100#🇯🇵 JP-TYO-VISA
+108.162.226.150#🇯🇵 JP-TYO-VISA
 proxyip.sg.fxxk.dedyn.io#🇸🇬 SG-VISA
-103.22.200.100#🇸🇬 SG-TIME
+103.22.200.150#🇸🇬 SG-TIME
 104.17.155.88#🇺🇸 US-VISA
 104.17.159.100#🇺🇸 US-TIME
-108.162.228.100#🇫🇷 FR-VISA
-162.158.20.150#🇫🇷 FR-TIME
+proxyip.fr.fxxk.dedyn.io#🇫🇷 FR-VISA
+108.162.228.150#🇫🇷 FR-TIME
