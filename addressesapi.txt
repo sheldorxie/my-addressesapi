@@ -1,9 +1,13 @@
+icook.tw:2053#TW-Icook
+www.visa.com.tw:8443#TW-Visa台湾
+time.is:443#TW-Time.is
+shopify.com:443#🇹🇼 TW-Shopify
 104.17.155.88#🇺🇸 US-VISA
 104.17.159.100#🇺🇸 US-TIME
 www.visa.co.jp:443#🇯🇵 JP-VISA
 japan.com:443#🇯🇵 JP-Japan
 shopify.com:443#🇯🇵 JP-Shopify
-ProxyIP.JP.CMLiussss.net:443#🇯🇵 JP-ProxyIP
+www.adidas.co.jp:443#🇯🇵 JP-Adidas
 www.visa.com.sg:443#🇸🇬 SG-VISA
 singapore.com:443#🇸🇬 SG-Singapore
 www.visa.fr:443#🇫🇷 FR-VISA
