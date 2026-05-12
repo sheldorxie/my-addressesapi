@@ -1,4 +1,4 @@
-icook.tw:2053#TW-Icook
+icook.tw:2053#TW-ICook
 www.visa.com.tw:8443#TW-Visa台湾
 time.is:443#TW-Time.is
 shopify.com:443#🇹🇼 TW-Shopify
