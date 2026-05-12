@@ -7,7 +7,7 @@ shopify.com:443#🇹🇼 TW-Shopify
 www.visa.co.jp:443#🇯🇵 JP-VISA
 japan.com:443#🇯🇵 JP-Japan
 shopify.com:443#🇯🇵 JP-Shopify
-www.adidas.co.jp:443#🇯🇵 JP-Adidas
+www.nike.co.jp:443#🇯🇵 JP-Nike
 www.visa.com.sg:443#🇸🇬 SG-VISA
 singapore.com:443#🇸🇬 SG-Singapore
 www.visa.fr:443#🇫🇷 FR-VISA
